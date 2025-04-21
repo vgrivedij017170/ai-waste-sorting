@@ -1,4 +1,4 @@
-# Waste-Wizard
+# AI-Waste-Sorting
 
 ## Description
 
